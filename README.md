@@ -1,7 +1,7 @@
 ## Yaroslav Zotov
 
 **Email:** zotovyaa@mail.ru  
-**Telegram:** @qiray  
+**Telegram:** [@qiray](https://t.me/qiray)
 
 ---
 
