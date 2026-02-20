@@ -1,5 +1,3 @@
-## Hi there 👋
-
 ## Yaroslav Zotov
 
 **Email:** zotovyaa@mail.ru  
@@ -17,13 +15,6 @@ Experienced developer with over 12 years in IT, specializing in software develop
 - **Frameworks:** React Native, Qt, wxPython
 - **Tools & Technologies:** Git, GitLab CI, REST API
 - **Languages:** Russian (Native), English
-
----
-
-### Open Source Projects
-- **[xlife](https://sourceforge.net/projects/xlife-cal/)**: Cellular automata simulation in C/C++.
-- **[MathArtist](https://github.com/qiray/MathArtist)**: Utility for generating abstract images.
-- **[useful-scripts](https://github.com/qiray/useful-scripts)**: Some useful scripts in Bash.
 
 ---
 
